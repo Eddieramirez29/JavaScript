@@ -1,0 +1,12 @@
+p, ol
+{
+    margin: 0;
+    display: inline;
+    margin-right: 10px;
+}
+
+li
+{
+    display: inline;
+    margin-right: 10px;
+}
